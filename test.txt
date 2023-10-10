@@ -1,1 +1,2 @@
 open
+https://raw.githubusercontent.com/kunrich/hlsImage/main/360p0.png
