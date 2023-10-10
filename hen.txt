@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:6
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:5.005333,
+https://video-1k.isorada.com/?id=QUFtPI2knVbIJimXYwWpMVN8HmjDqpfbhWG4S2pFtfQ=
+#EXTINF:5.005333,
+https://video-1k.isorada.com/?id=v7O1wQv70123wQBCurcbJWk8wEgVBQjpEzPzvisfRfE=
+#EXT-X-ENDLIST
