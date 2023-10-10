@@ -3,6 +3,8 @@
 #EXT-X-TARGETDURATION:6
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:5.005333,
+https://rr5---sn-npoeenlk.googlevideo.com/videoplayback?expire=1696969347&ei=A0IlZfL5G6XJn88PhbKFoAk&ip=2a09:bac5:5742:18be::277:8&id=abd76786a5017853&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=FG&mm=31&mn=sn-npoeenlk&ms=au&mv=m&mvi=5&pl=40&susc=bl&eaua=3mympojr-Ug&mime=video/mp4&vprv=1&dur=5.085&lmt=1696940361754127&mt=1696940039&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AGM4YrMwRQIhAMS_oWppHFbTBI7Zbot3P-YRW6GsNEFqP2G8WeZAVowoAiBujA8Bpjey4tMQ8FrFMPrb3iYJ82I-1FhuFzDs_YYYxQ%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AK1ks_kwRQIhAICOZG-Qk8MzArlwOEbZnaWe4loqrqsaYfy7R3nKoz68AiBbFUmsVzAYlPiTU40oAcu5EPZ49l05SjE_5ezvx99zHA%3D%3D
+#EXTINF:5.005333,
 https://kakaa-kaaa-kakangu-agungangu-kakangu-03.xyz/api/files/18c24e05e7bb3ec50bee8620036bbfea/360p/360p2.html
 #EXTINF:5.005333,
 https://kakaa-kaaa-kakangu-agungangu-kakangu-04.xyz/api/files/18c24e05e7bb3ec50bee8620036bbfea/360p/360p3.html
